@@ -38,3 +38,7 @@
   border: none;
   background-color: var(--highligh-color)
 }
+
+.projects .cards > ul > li img {
+  filter: grayscale(1);
+}

@@ -13,6 +13,8 @@ import {
   loadCSS,
 } from './aem.js';
 
+import "./custom.js";
+
 const LCP_BLOCKS = []; // add your LCP blocks to the list
 
 /**

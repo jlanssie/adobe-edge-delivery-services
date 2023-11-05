@@ -249,3 +249,17 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+/* ---- Custom ---- */
+
+/* colors */
+
+:root {
+    --link-color: #035fe6;
+    --link-hover-color: #136ff6;
+    --background-color: #fff;
+    --overlay-background-color: #EB1000;
+    --highlight-background-color: #eee;
+    --text-color: #000;
+    --highligh-color: #EB1000;
+}
